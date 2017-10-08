@@ -16,7 +16,7 @@
     </Menu>
   </Tools>
   <Script xmlns:injected="http://www.w3.org/1999/xhtml">
-    <![CDATA
+    <![CDATA[
       alert("Hello, World! 2");
     ]]>
   </Script>
