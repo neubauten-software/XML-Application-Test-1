@@ -2,10 +2,6 @@
 <?xml-stylesheet type="text/css" href="main.css"?>
 <?xml-stylesheet type="text/css" href="font_awesome.css"?>
 <Layer>
-  <LayerSettings>
-    <Type>Linear</Type>
-    <Orientation>Vertical</Orientation>
-  </LayerSettings>
   <Tools>
     <Header>
       Hello, World!
